@@ -20,4 +20,4 @@ Here is the list of Python scripts that I created
 | **asymmetric_encryption.py** | describe | [View Code](python-scripts/asymmetric_encryption.py) |
 | **AES** | describe | [View Code](python-scripts/AES) |
 | **Blockchain** | describe | [View Code](python-scripts/Blockchain) |
-| **Diffie-Hellman Algorithm** | describe | [View Code](python-scripts/hellman.py) ||
+| **diffie_hellman.py** | describe | [View Code](python-scripts/diffie_hellman.py) ||
