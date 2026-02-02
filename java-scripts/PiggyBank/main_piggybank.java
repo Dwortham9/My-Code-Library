@@ -1,5 +1,5 @@
 import java.util.*;
-public class Homework11
+public class main_piggybank
 {
 
     public static void main(String[] args) 
@@ -55,3 +55,4 @@ public class Homework11
     }
     
 }
+
