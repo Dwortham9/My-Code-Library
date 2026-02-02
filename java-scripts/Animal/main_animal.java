@@ -1,5 +1,5 @@
 
-public class Homework10
+public class main_animal
 {
 
     public static void main(String[] args) 
@@ -21,3 +21,4 @@ public class Homework10
     }
     
 }
+
