@@ -1,5 +1,5 @@
 import java.util.*;
-public class HW15
+public class random_demo
 {
     public static void main(String[] args) 
     {
@@ -60,3 +60,4 @@ public class HW15
     }
     
 }
+
