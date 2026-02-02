@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class HW10
+public class create_n_edit_files
 {
     public static void main(String[] args) 
     {
@@ -66,4 +66,5 @@ Data saved.
 Enter first name, or Q to quit: Q
 
 File musicians.txt closed.
+
 Done.*/
