@@ -1,5 +1,5 @@
 
-public class Homework5
+public class main_angle
 {
     public static void main(String[] args) 
     {
@@ -10,3 +10,4 @@ public class Homework5
     }
     
 }
+
