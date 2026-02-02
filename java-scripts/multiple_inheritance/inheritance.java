@@ -35,7 +35,7 @@ class Sphere implements method1, method2
     }
     
 }
-public class Homework12
+public class inheritance
 {
     public static void main(String[] args) 
     {
@@ -54,3 +54,4 @@ public class Homework12
     }
     
 }
+
