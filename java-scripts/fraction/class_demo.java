@@ -1,5 +1,5 @@
 import java.util.*;
-public class AdvHomework1
+public class class_demo
 {
 
     public static void main(String[] args) 
@@ -27,3 +27,4 @@ public class AdvHomework1
     }
     
 }
+
