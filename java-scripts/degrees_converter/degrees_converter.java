@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class LectureF {
+public class degrees_converter {
 
     public static void main(String[] args) 
     {
@@ -29,3 +29,4 @@ public class LectureF {
     }
     
 }
+
