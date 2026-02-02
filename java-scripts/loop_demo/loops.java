@@ -1,5 +1,5 @@
 
-public class HW12
+public class loops
 {
     public static void main(String[] args) 
     {
@@ -29,3 +29,4 @@ public class HW12
     }
     
 }
+
