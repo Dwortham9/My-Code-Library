@@ -43,7 +43,7 @@ class Sphere extends Shape
 
 }
 
-public class Homework13
+public class oop
 {
 
     public static void main(String[] args) {
@@ -66,3 +66,4 @@ public class Homework13
     }
 
 }
+
