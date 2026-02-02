@@ -1,5 +1,5 @@
 
-public class Homework2_2
+public class main_book_rect
 {
     public static void main(String[] args) 
     {
@@ -27,3 +27,4 @@ public class Homework2_2
     }
     
 }
+
