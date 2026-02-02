@@ -1,5 +1,5 @@
 import java.util.*;
-public class HW7pt1
+public class math_demo
 {
     public static void main (String args[]) {
         Scanner sc = new Scanner(System.in);
@@ -24,3 +24,4 @@ public class HW7pt1
    }
     
 }
+
