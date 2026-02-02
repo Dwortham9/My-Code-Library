@@ -1,5 +1,5 @@
 import java.util.*;
-public class HW16
+public class rand_sum_average
 {
 public static void main(String[] args) 
     {
@@ -60,3 +60,4 @@ public static void main(String[] args)
     }
     
 }
+
