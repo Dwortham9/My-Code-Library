@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HW8
+public class invest
 {
     public static void main(String[] args) {
         
@@ -30,3 +30,4 @@ public class HW8
   }
     
 }
+
