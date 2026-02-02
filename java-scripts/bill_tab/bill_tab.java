@@ -1,5 +1,5 @@
 import java.util.*;
-public class HW9
+public class bill_tab
 {
 
     public class Billing {
@@ -45,3 +45,4 @@ public class HW9
         }
     }
 }
+
