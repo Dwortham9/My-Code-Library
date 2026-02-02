@@ -1,5 +1,5 @@
 import java.util.*;
-public class Homework8
+public class treemap_demo
 {
     public static void main(String[] args) 
     {
@@ -22,3 +22,4 @@ public class Homework8
     }
     
 }
+
