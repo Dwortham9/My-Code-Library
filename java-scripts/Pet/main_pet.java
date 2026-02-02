@@ -1,5 +1,5 @@
 
-public class Homework4
+public class main_pet
 {
 
     public static void main(String[] args) 
@@ -15,3 +15,4 @@ public class Homework4
     }// end of main
     
 }// end of Homework 4
+
