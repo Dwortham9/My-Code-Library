@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class HW14
+public class sum_n_average
 {
     public static void main(String[] args) 
     {
@@ -64,3 +64,4 @@ public class HW14
     }
     
 }
+
