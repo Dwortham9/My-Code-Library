@@ -1,7 +1,7 @@
 # My-Code-Library
 
 ## About This Repository
-This repository serves as a living portfolio of my journey into software development and security. It houses the scripts I have built to master Python, ranging from foundational logic to practical security applications.
+This repository serves as a living portfolio of my journey into software development and security. It houses the scripts I have built to learn and understand different programming languages, ranging from foundational logic to practical security applications.
 
 ## 🛠️ What's Inside?
 * **Security & Encryption:** Scripts exploring how data is encrypted and decrypted.
