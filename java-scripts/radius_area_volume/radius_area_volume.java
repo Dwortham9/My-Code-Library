@@ -1,6 +1,6 @@
 import java.util.*;
 //
-public class HW5
+public class radius_area_volume
 {
     public static void main(String[] args) 
     {
@@ -31,3 +31,4 @@ public class HW5
     }
     
 }
+
