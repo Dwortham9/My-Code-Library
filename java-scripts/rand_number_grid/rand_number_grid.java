@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Homework6
+public class rand_number_grid
 {
 
     public static void main(String[] args) 
@@ -43,3 +43,4 @@ public class Homework6
     }
     
 }
+
