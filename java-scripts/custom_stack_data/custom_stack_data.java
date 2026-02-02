@@ -20,7 +20,7 @@ class MS
         return false;
     }
 }//end MS
-public class Homework7
+public class custom_stack_data
 {
     public static void main(String[] args) 
     {
@@ -41,3 +41,4 @@ public class Homework7
     }
     
 }
+
