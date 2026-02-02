@@ -1,5 +1,5 @@
 import java.util.*;
-public class Homework5B
+public class main_copy_new
 {
 
     public static void main(String[] args) 
@@ -18,3 +18,4 @@ public class Homework5B
     }
     
 }
+
