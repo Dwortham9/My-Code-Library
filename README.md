@@ -12,9 +12,11 @@ This repository serves as a living portfolio of my journey into software develop
 To demonstrate proficiency in writing clean, efficient code for IT and Security Operations.
 
 ## 📂 Script Library
-Here is the list of Python scripts that I used and created:
+Here is the list of scripts that I used and created:
 
-| Script Name | Description | Link to File |
+**Python**
+
+| File Name | Description | Link to File |
 | :--- | :--- | :---: |
 | **symmetric_encryption.py** | Calculates a total based on a user-provided integer | [View Code](python-scripts/symmetric_encryption.py) |
 | **asymmetric_encryption.py** | Determines the total key count based on the number of users | [View Code](python-scripts/asymmetric_encryption.py) |
@@ -28,3 +30,36 @@ Here is the list of Python scripts that I used and created:
 | **kasiski_method.py** | A part of the Kasiski examination to help estimate <br>key length for polyalphabetic ciphers</br> | [View Code](python-scripts/kasiski_method.py) |
 | **knapsack.py** | A small knapsack/merkle–hellman program| [View Code](python-scripts/knapsack.py) |
 | **rsa.py** | Two mode RSA (manual and auto)| [View Code](python-scripts/rsa.py) ||
+
+**Java**
+
+| File Name | Description | Link to File |
+| :--- | :--- | :---: |
+| **Angle** | description | [View Code](java-scripts/Angle) |
+| **Animal** | description | [View Code](java-scripts/Animal) |
+| **math_demo.java** | description | [View Code](java-scripts/MathDemo/math_demo.java) |
+| **oop.java** | description | [View Code](java-scripts/OOP/oop.java) |
+| **Pet** | description | [View Code](java-scripts/Pet) |
+| **PiggyBank** | description | [View Code](java-scripts/PiggyBank) |
+| **bill_tab** | description | [View Code](java-scripts/bill_tab) |
+| **books_&_rect** | description | [View Code](java-scripts/books_&_rect) |
+| **copy_new.java** | description | [View Code](java-scripts/copy_array_new/main_copy_new.java) |
+| **create_n_edit_files.java** | description | [View Code](java-scripts/create_n_edit_files/create_n_edit_files.java) |
+| **custom_stack_data.java** | description | [View Code](java-scripts/custom_stack_data/custom_stack_data.java) |
+| **degrees_converter.java** | description | [View Code](java-scripts/degrees_converter/degrees_converter.java) |
+| **for_loop.java** | description | [View Code](java-scripts/for_loop_demo/for_loop.java) |
+| **fraction** | description | [View Code](java-scripts/fraction) |
+| **groceries.java** | description | [View Code](java-scripts/groceries/groceries.java) |
+| **invest.java** | description | [View Code](java-scripts/investment/invest.java) |
+| **jframe_demo** | description | [View Code](java-scripts/jframe_demo) |
+| **loops.java** | description | [View Code](java-scripts/loop_demo/loops.java) |
+| **inheritance.java** | description | [View Code](java-scripts/multiple_inheritance/inheritance.java) |
+| **radius_area_volume.java** | description | [View Code](java-scripts/radius_area_volume/radius_area_volume.java) |
+| **random_demo.java** | description | [View Code](java-scripts/rand_demo/random_demo.java) |
+| **rand_number_grid.java** | description | [View Code](java-scripts/rand_number_grid/rand_number_grid.java) |
+| **rand_sum_average.java** | description | [View Code](java-scripts/rand_sum_average/rand_sum_average.java) |
+| **web_server.java** | description | [View Code](java-scripts/single-threaded_HTTP_Web_Server/web_server.java) |
+| **sum_n_average.java** | description | [View Code](java-scripts/sum_n_average/sum_n_average.java) |
+| **text_to_keypad.java** | description | [View Code](java-scripts/text_to_keypad/text_to_keypad.java) |
+| **treemap_demo.java** | description | [View Code](java-scripts/treemap_demo/treemap_demo.java) ||
+
