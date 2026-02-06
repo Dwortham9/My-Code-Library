@@ -63,3 +63,42 @@ Here is the list of scripts that I used and created:
 | **text_to_keypad.java** | description | [View Code](java-scripts/text_to_keypad/text_to_keypad.java) |
 | **treemap_demo.java** | description | [View Code](java-scripts/treemap_demo/treemap_demo.java) ||
 
+**C++**
+
+| File Name | Description | Link to File |
+| :--- | :--- | :---: |
+| **Globo_Lib.cpp** |  | [View Code](C++/Globo_Lib.cpp) |
+| **Rand100.cpp** |  | [View Code](C++/Rand100.cpp) |
+| **animal_lookup.cpp** |  | [View Code](C++/animal_lookup.cpp) |
+| **area_&_volume.cpp** |  | [View Code](C++/area_&_volume.cpp) |
+| **climate_data_collector.cpp** |  | [View Code](C++/climate_data_collector.cpp) |
+| **enum_friend_mapper.cpp** |  | [View Code](C++/enum_friend_mapper.cpp) |
+| **function_prototype_demo.cpp** |  | [View Code](C++/function_prototype_demo.cpp) |
+| **loops_demo.cpp** |  | [View Code](C++/loops_demo.cpp) |
+| **measurement_converter.cpp** |  | [View Code](C++/measurement_converter.cpp) |
+| **phone_keypad_mapper.cpp** |  | [View Code](C++/phone_keypad_mapper.cpp) |
+| **powers_table.cpp** |  | [View Code](C++/powers_table.cpp) |
+| **pressure_solver.cpp** |  | [View Code](C++/pressure_solver.cpp) |
+| **sphere_mass_calculator.cpp** |  | [View Code](C++/sphere_mass_calculator.cpp) ||
+
+**C#**
+
+| File Name | Description | Link to File |
+| :--- | :--- | :---: |
+| **enlist** |  | [View Code](C#/enlist) |
+| **pay_calc** |  | [View Code](C#/pay_calc) |
+| **summation** |  | [View Code](C#/summation) |
+| **area_of_circles.cs** |  | [View Code](C#/area_of_circles.cs) |
+| **area_rect.cs** |  | [View Code](C#/area_rect.cs) |
+| **elements.cs** |  | [View Code](C#/elements.cs) |
+| **fighter_game.cs** |  | [View Code](C#/fighter_game.cs) |
+| **if_else_demo.cs** |  | [View Code](C#/if_else_demo.cs) |
+| **loop_speed_test.cs** |  | [View Code](C#/loop_speed_test.cs) |
+| **matrix_extreme_finder.cs** |  | [View Code](C#/matrix_extreme_finder.cs) |
+| **measurement_converter.cs** |  | [View Code](C#/measurement_converter.cs) |
+| **moving_user.cs** |  | [View Code](C#/moving_user.cs) |
+| **number_geusser.cs** |  | [View Code](C#/number_geusser.cs) |
+| **orcs_elves.cs** |  | [View Code](C#/orcs_elves.cs) |
+| **overloaded_product.cs** |  | [View Code](C#/overloaded_product.cs) |
+| **phone_keypad_mapper.cs** |  | [View Code](C#/phone_keypad_mapper.cs) |
+| **pyramid_volume_calculator.cs** |  | [View Code](C#/pyramid_volume_calculator.cs) ||
