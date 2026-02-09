@@ -13,8 +13,12 @@ To demonstrate proficiency in writing clean, efficient code for IT and Security 
 
 ## 📂 Script Library
 Here is the list of scripts that I used and created:
+* [Python](#python)
+* [Java](#java)
+* [C++](#c)
+* [C#](#c-1)
 
-**Python**
+## Python
 
 | File Name | Description | Link to File |
 | :--- | :--- | :---: |
@@ -31,11 +35,11 @@ Here is the list of scripts that I used and created:
 | **knapsack.py** | A small knapsack/merkle–hellman program| [View Code](python-scripts/knapsack.py) |
 | **rsa.py** | Two mode RSA (manual and auto)| [View Code](python-scripts/rsa.py) ||
 
-**Java**
+## Java
 
 | File Name | Description | Link to File |
 | :--- | :--- | :---: |
-| **Angle** | A geometry utility that calculates the hypotenuse and the angle in degrees of a right triangle based on user-provided "rise" and "run" values | [View Code](java-scripts/Angle) |
+| **Angle** | A geometry utility that calculates the hypotenuse and the angle in <br>degrees of a right triangle based on user-provided "rise" and "run" values</br> | [View Code](java-scripts/Angle) |
 | **Animal** | An example of inheritance and polymorphism where a base Animal class is extended by Crow, Chicken, and Duck classes, each overriding the sound() method with its specific vocalization | [View Code](java-scripts/Animal) |
 | **math_demo.java** | A basic mathematical utility that takes a whole number as input and displays the results of doubling it, adding five, and squaring it | [View Code](java-scripts/MathDemo/math_demo.java) |
 | **oop.java** | Demonstrates abstract classes and polymorphism by calculating the area and volume for different Shape types (Cube and Sphere) stored in a single list | [View Code](java-scripts/OOP/oop.java) |
@@ -63,13 +67,13 @@ Here is the list of scripts that I used and created:
 | **text_to_keypad.java** | A string processing utility that converts phrases into their corresponding numeric values as they would appear on a standard telephone keypad | [View Code](java-scripts/text_to_keypad/text_to_keypad.java) |
 | **treemap_demo.java** | Demonstrates the TreeMap collection by populating it with random integer key-value pairs and displaying them in their naturally sorted order | [View Code](java-scripts/treemap_demo/treemap_demo.java) ||
 
-**C++**
+## C++
 
 | File Name | Description | Link to File |
 | :--- | :--- | :---: |
 | **Globo_Lib.cpp** | An object-oriented approach to geometry, featuring a Sphere class with a constructor and a method to calculate surface area using M_PI | [View Code](C++/Globo_Lib.cpp) |
 | **Rand100.cpp** | A simple program that uses srand and rand to generate and display a sequence of 100 random integers between 1 and 100 | [View Code](C++/Rand100.cpp) |
-| **animal_lookup.cpp** | Uses an enum class and a switch-driven helper function to map and display animal names from predefined constants | [View Code](C++/animal_lookup.cpp) |
+| **animal_lookup.cpp** | Uses an enum class and a switch-driven helper function <br>to map and display animal names from predefined constants</br> | [View Code](C++/animal_lookup.cpp) |
 | **area_&_volume.cpp** | A while loop to provide options for calculating the surface area or volume of a sphere given a radius | [View Code](C++/area_&_volume.cpp) |
 | **climate_data_collector.cpp** | Collects monthly temperature inputs into an array, calculates the average temperature, and displays a formatted list of recorded data | [View Code](C++/climate_data_collector.cpp) |
 | **enum_friend_mapper.cpp** | Demonstrates enum class mapping for friend names and includes an example of iterating through a global array of doubles | [View Code](C++/enum_friend_mapper.cpp) |
@@ -81,7 +85,7 @@ Here is the list of scripts that I used and created:
 | **pressure_solver.cpp** | A chemistry-focused utility that calculates gas pressure in atmospheres using the Ideal Gas Law | [View Code](C++/pressure_solver.cpp) |
 | **sphere_mass_calculator.cpp** | A comprehensive calculator that determines the mass of a sphere by allowing users to select from various materials and size | [View Code](C++/sphere_mass_calculator.cpp) ||
 
-**C#**
+## C#
 
 | File Name | Description | Link to File |
 | :--- | :--- | :---: |
