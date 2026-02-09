@@ -35,33 +35,33 @@ Here is the list of scripts that I used and created:
 
 | File Name | Description | Link to File |
 | :--- | :--- | :---: |
-| **Angle** | description | [View Code](java-scripts/Angle) |
-| **Animal** | description | [View Code](java-scripts/Animal) |
-| **math_demo.java** | description | [View Code](java-scripts/MathDemo/math_demo.java) |
-| **oop.java** | description | [View Code](java-scripts/OOP/oop.java) |
-| **Pet** | description | [View Code](java-scripts/Pet) |
-| **PiggyBank** | description | [View Code](java-scripts/PiggyBank) |
-| **bill_tab** | description | [View Code](java-scripts/bill_tab) |
-| **books_&_rect** | description | [View Code](java-scripts/books_&_rect) |
-| **copy_new.java** | description | [View Code](java-scripts/copy_array_new/main_copy_new.java) |
-| **create_n_edit_files.java** | description | [View Code](java-scripts/create_n_edit_files/create_n_edit_files.java) |
-| **custom_stack_data.java** | description | [View Code](java-scripts/custom_stack_data/custom_stack_data.java) |
-| **degrees_converter.java** | description | [View Code](java-scripts/degrees_converter/degrees_converter.java) |
-| **for_loop.java** | description | [View Code](java-scripts/for_loop_demo/for_loop.java) |
-| **fraction** | description | [View Code](java-scripts/fraction) |
-| **groceries.java** | description | [View Code](java-scripts/groceries/groceries.java) |
-| **invest.java** | description | [View Code](java-scripts/investment/invest.java) |
-| **jframe_demo** | description | [View Code](java-scripts/jframe_demo) |
-| **loops.java** | description | [View Code](java-scripts/loop_demo/loops.java) |
-| **inheritance.java** | description | [View Code](java-scripts/multiple_inheritance/inheritance.java) |
-| **radius_area_volume.java** | description | [View Code](java-scripts/radius_area_volume/radius_area_volume.java) |
-| **random_demo.java** | description | [View Code](java-scripts/rand_demo/random_demo.java) |
-| **rand_number_grid.java** | description | [View Code](java-scripts/rand_number_grid/rand_number_grid.java) |
-| **rand_sum_average.java** | description | [View Code](java-scripts/rand_sum_average/rand_sum_average.java) |
-| **web_server.java** | description | [View Code](java-scripts/single-threaded_HTTP_Web_Server/web_server.java) |
-| **sum_n_average.java** | description | [View Code](java-scripts/sum_n_average/sum_n_average.java) |
-| **text_to_keypad.java** | description | [View Code](java-scripts/text_to_keypad/text_to_keypad.java) |
-| **treemap_demo.java** | description | [View Code](java-scripts/treemap_demo/treemap_demo.java) ||
+| **Angle** | A geometry utility that calculates the hypotenuse and the angle in degrees of a right triangle based on user-provided "rise" and "run" values | [View Code](java-scripts/Angle) |
+| **Animal** | An example of inheritance and polymorphism where a base Animal class is extended by Crow, Chicken, and Duck classes, each overriding the sound() method with its specific vocalization | [View Code](java-scripts/Animal) |
+| **math_demo.java** | A basic mathematical utility that takes a whole number as input and displays the results of doubling it, adding five, and squaring it | [View Code](java-scripts/MathDemo/math_demo.java) |
+| **oop.java** | Demonstrates abstract classes and polymorphism by calculating the area and volume for different Shape types (Cube and Sphere) stored in a single list | [View Code](java-scripts/OOP/oop.java) |
+| **Pet** | A data management class used to store and display information for household pets, including their name, birth date, and vaccination date | [View Code](java-scripts/Pet) |
+| **PiggyBank** | A simulation of a physical piggy bank that tracks the total monetary value and count of different Coin objects (Pennies, Nickels, Dimes, and Quarters) up to a maximum capacity | [View Code](java-scripts/PiggyBank) |
+| **bill_tab** | A billing utility that uses method overloading to calculate totals for photo books based on different parameters: unit price only, price plus quantity, or price and quantity minus a coupon | [View Code](java-scripts/bill_tab) |
+| **books_&_rect** | A project containing two distinct data structures: AdvBook for tracking library metadata (title, author, genre) and AdvRect for managing rectangle dimensions | [View Code](java-scripts/books_&_rect) |
+| **copy_new.java** | A brief demonstration of array manipulation using Arrays.copyOf to create a duplicate of an existing integer array | [View Code](java-scripts/copy_array_new/main_copy_new.java) |
+| **create_n_edit_files.java** | A file I/O utility that prompts the user for a filename and then allows them to continuously input and save personal data (names and zip codes) to that text file | [View Code](java-scripts/create_n_edit_files/create_n_edit_files.java) |
+| **custom_stack_data.java** | An implementation of a custom Stack data structure (Last-In-First-Out) using an ArrayList to manage push, pop, and isEmpty operations | [View Code](java-scripts/custom_stack_data/custom_stack_data.java) |
+| **degrees_converter.java** | A temperature conversion tool that allows users to switch between Fahrenheit and Celsius scales | [View Code](java-scripts/degrees_converter/degrees_converter.java) |
+| **for_loop.java** | Illustrates nested for loops by generating formatted sequences of currency (dollars and cents) and measurements (feet and inches) | [View Code](java-scripts/for_loop_demo/for_loop.java) |
+| **fraction** | A simple mathematical class that handles fractions by storing "top" (numerator) and "bottom" (denominator) values to calculate their decimal equivalent | [View Code](java-scripts/fraction) |
+| **groceries.java** | A practical arithmetic script that converts raw quantities (total quarters or total eggs) into larger units like gallons or dozens with remaining leftovers | [View Code](java-scripts/groceries/groceries.java) |
+| **invest.java** | An investment calculator that computes and displays a period-by-period breakdown of Future Value (FV) based on Present Value (PV) and interest rates | [View Code](java-scripts/investment/invest.java) |
+| **jframe_demo** | A foundational GUI (Graphical User Interface) template built using the javax.swing library to create and display a standard Windows-style application frame | [View Code](java-scripts/jframe_demo) |
+| **loops.java** | A comparative demonstration showing the execution and syntax differences between while, for, and do-while loop structures | [View Code](java-scripts/loop_demo/loops.java) |
+| **inheritance.java** | Demonstrates multiple inheritance concepts by using interfaces (method1 and method2) to ensure different shapes implement both area and volume calculations | [View Code](java-scripts/multiple_inheritance/inheritance.java) |
+| **radius_area_volume.java** | An interactive geometry tool that calculates the surface area and volume for either a sphere or a cube based on user-provided dimensions | [View Code](java-scripts/radius_area_volume/radius_area_volume.java) |
+| **random_demo.java** | Generates a user-specified amount of random integers, calculates their total sum and average, and handles potential command-line arguments | [View Code](java-scripts/rand_demo/random_demo.java) |
+| **rand_number_grid.java** | Creates a 2D grid of random numbers based on user-defined rows and columns, calculating the totals for each individual row and the entire array | [View Code](java-scripts/rand_number_grid/rand_number_grid.java) |
+| **rand_sum_average.java** | A utility script that populates a list with random values and computes the resulting sum and average for data analysis | [View Code](java-scripts/rand_sum_average/rand_sum_average.java) |
+| **web_server.java** | A single-threaded HTTP web server that listens on port 80 to accept requests and send back a basic HTML response including the current server time | [View Code](java-scripts/single-threaded_HTTP_Web_Server/web_server.java) |
+| **sum_n_average.java** | A data entry tool that allows users to input a series of numbers (until choosing to quit) to determine their total sum and average value | [View Code](java-scripts/sum_n_average/sum_n_average.java) |
+| **text_to_keypad.java** | A string processing utility that converts phrases into their corresponding numeric values as they would appear on a standard telephone keypad | [View Code](java-scripts/text_to_keypad/text_to_keypad.java) |
+| **treemap_demo.java** | Demonstrates the TreeMap collection by populating it with random integer key-value pairs and displaying them in their naturally sorted order | [View Code](java-scripts/treemap_demo/treemap_demo.java) ||
 
 **C++**
 
